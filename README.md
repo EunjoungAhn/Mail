@@ -16,7 +16,7 @@ https://myaccount.google.com/security
 ![image](https://user-images.githubusercontent.com/34737952/174236514-f2357831-d82d-4a43-a884-9f178e41993e.png)
 ![image](https://user-images.githubusercontent.com/34737952/174236521-2eb96513-d046-4e0c-8aef-617c844db795.png)
 <br/>
-맞춤이름 선택 클릭 원하는 이름으로 생성 > 16자리 비밀번호가 생성되며, 이 번호를 기존에 사용한 이메일 비빌번호에 바꾸어 넣어주면 기존에 잘 작동 되었던 메일 오류가 해결됩니다.
+맞춤이름 선택 클릭 원하는 이름으로 생성 > 16자리 비밀번호가 생성되며, 이 번호를 기존에 사용한 이메일 비번호에 바꾸어 넣어주면 기존에 잘 작동 되었던 메일 오류가 해결됩니다.
 <br/>
 ![image](https://user-images.githubusercontent.com/34737952/174236530-db8f5947-67c5-4f56-992c-59c078499874.png)
 ![image](https://user-images.githubusercontent.com/34737952/174236580-8b0df22d-fc3d-48f3-a728-1baad6121ae7.png)
