@@ -21,6 +21,10 @@ https://myaccount.google.com/security
 ![image](https://user-images.githubusercontent.com/34737952/174236530-db8f5947-67c5-4f56-992c-59c078499874.png)
 ![image](https://user-images.githubusercontent.com/34737952/174236580-8b0df22d-fc3d-48f3-a728-1baad6121ae7.png)
 16자리 비번을 기존에 사용한 비번으로 교체
+<br/>
+<br/>
+*주의*
+‘확인’ 클릭 전에! 비밀번호를 복사해 두어야 합니다. ‘확인’을 누르면 재확인 불가능 하며, 다시 만들어야 합니다. 그리고 구글 계정의 비밀번호가 아닌 구글 메일(SMTP)을 사용하는 프로그램에 적용된 비밀번호를 교체해야 합니다.
 
 # Web.config
 ```C#
