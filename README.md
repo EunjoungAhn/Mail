@@ -20,7 +20,7 @@ https://myaccount.google.com/security
 <br/>
 ![image](https://user-images.githubusercontent.com/34737952/174236530-db8f5947-67c5-4f56-992c-59c078499874.png)
 ![image](https://user-images.githubusercontent.com/34737952/174236580-8b0df22d-fc3d-48f3-a728-1baad6121ae7.png)
-16자리 비번을 기존에 사용한 비번으로 교체
+16자리 비밀번호를 기존에 사용한 비밀번호로 교체
 <br/>
 <br/>
 *주의*
