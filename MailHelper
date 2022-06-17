@@ -1,4 +1,3 @@
-```C#
 public class MailHelper : IDisposable
     {
         private bool disposedValue;
@@ -275,4 +274,3 @@ public class MailHelper : IDisposable
             return builder.ToString();
         }
     }
-```
