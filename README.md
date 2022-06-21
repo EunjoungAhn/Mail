@@ -156,7 +156,13 @@ public virtual ReturnValue SendMail(string fromMail, string fromPassword, string
 ```
 
 # 비밀번호 재설정 전 본인 확인 메일 html 폼
+<br/>
+C#에서 .cshtml 파일명으로 처리하여, 메일을 보낼 수 없어 html 형식의 파일을 사용하여 보내기 위해 작성된 메일폼 입니다.
+<br/>
+해당폼은 메일 관련 helper 클래스를 사용하여, 메일을 보내고자 하는 사용자의 아이디를 DB에서 확인 후, 확인된 메일에 토큰을 넣어서 발송하는 형태입니다.
+<br/>
 해당 폼 안에 AuthURL로 컨트롤러에서 값을 넣어서 메일로 넣어 보내줍니다.
+
 ```html
 <!DOCTYPE html>
 <html lang="ko">
